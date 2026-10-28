@@ -6,6 +6,8 @@ Manage plugins from multiple GitHub stores in **Codex**, **Claude Code**, or bot
 
 Get the latest beta from [Releases](https://github.com/leichelkraut1/ai-plugin-manager-releases/releases). App downloads and updates are public and need no GitHub account. The app includes its .NET runtime.
 
+Third-party license and attribution notices are included in `THIRD-PARTY-NOTICES.txt` beside the application files.
+
 - **Windows x64:** download `win-x64-setup.exe` and run the per-user installer. It adds a Start menu shortcut and needs no administrator rights. A portable ZIP is also available; portable copies use manual app updates.
 - **Apple Silicon Mac:** download `osx-arm64.dmg`, open it, and copy **AI Plugin Manager.app** into Applications. A ZIP is also available. Run the installed copy, rather than the copy inside the disk image, to use app updates.
 
